@@ -1,0 +1,1 @@
+To install the Sound library, one must only call `cabal install WAVE`. Then one can compile Sound.hs and use the library.
